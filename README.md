@@ -6,3 +6,6 @@ Cordova wrapper for existing website
 npm install  
 cordova platform add android  
 cordova build  
+
+## Run
+cordova emulate android  
