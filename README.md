@@ -2,7 +2,7 @@
 Wrap your existing website
 
 ## Modify
-open www/index.html and modify with URL, title and description.  
+open www/index.html and modify with URL, title and description. Change URL to site you wish to wrap.  
 
 ## Build  
 ```sh  
